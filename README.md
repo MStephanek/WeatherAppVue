@@ -12,7 +12,7 @@ Vue 3 + Quasar + TypeScript weather application using OpenWeather API.
 - Pinia state management
 - Clean architecture (services + store)
 - Docker container
-- GitHub Actions CI
+- GitHub Actions CI (not tested)
 
 ## Setup
 
